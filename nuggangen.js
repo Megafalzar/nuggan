@@ -38,6 +38,9 @@ var abominations = [
 	 'Necromancers are',
 	 'Keyblades are',
 	 'Pasta is',
+	 'Tendies are',
+	 'r/Tendies is',
+	  'Waifuism is',
 ];
 
 function abominationGen() {
