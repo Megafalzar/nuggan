@@ -26,7 +26,7 @@ var abominations = [
 	 'Logs in display cases are',
 	 'Large polygonal circles are',
 	 'Bodily fluids are',
-	 'Sauske Uchiha is',
+	 'Sasuke Uchiha is',
 	 'Orochimaru is',
 	 'Overwatch is',
 	 'Meduka Meguca is',
@@ -35,11 +35,12 @@ var abominations = [
 	 'Vocaloids are',
 	 'Minecraft is',
 	 'Coconuts are',
+	 'Necromancers are',
+	 'Keyblades are',
+	 'Pasta is',
 ];
 
 function abominationGen() {
 	var abomination = Math.floor(Math.random() * (abominations.length));
 	document.getElementById('abominationsDisplay').innerHTML = abominations[abomination] + ' ' + 'an abomination unto Nuggan!'
 };
-
-
