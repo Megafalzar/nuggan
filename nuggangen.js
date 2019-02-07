@@ -25,6 +25,7 @@ var abominations = [
 	 'Pans are',
 	 'Logs in display cases are',
 	 'Large polygonal circles are',
+	 'Bodily fluids are'
 ];
 
 function abominationGen() {
