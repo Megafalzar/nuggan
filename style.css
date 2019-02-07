@@ -1,0 +1,15 @@
+body {
+	background-image: url("https://i.imgur.com/CgHAiVT.jpg");
+}
+#abominationsDisplay {
+	font-style: oblique;
+	font-size: 2em;
+	position: absolute;
+	left: 11.5em;
+	top: 7.7em;
+}
+button {
+	position: absolute;
+	left: 45em;
+	top:22.5em;
+}
