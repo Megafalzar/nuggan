@@ -34,6 +34,7 @@ var abominations = [
 	 'The Mario Brothers are',
 	 'Vocaloids are',
 	 'Minecraft is',
+	 'Coconuts are',
 ];
 
 function abominationGen() {
