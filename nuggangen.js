@@ -25,15 +25,15 @@ var abominations = [
 	 'Pans are',
 	 'Logs in display cases are',
 	 'Large polygonal circles are',
-	 'Bodily fluids are'
-	 'Sauske Uchiha is'
-	 'Orochimaru is'
-	 'Overwatch is'
-	 'Meduka Meguca is'
-	 'Pistachios are'
-	 'The Mario Brothers are'
-	 'Vocaloids are'
-	 'Minecraft is'
+	 'Bodily fluids are',
+	 'Sauske Uchiha is',
+	 'Orochimaru is',
+	 'Overwatch is',
+	 'Meduka Meguca is',
+	 'Pistachios are',
+	 'The Mario Brothers are',
+	 'Vocaloids are',
+	 'Minecraft is',
 ];
 
 function abominationGen() {
