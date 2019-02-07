@@ -40,4 +40,4 @@ var abominations = [
 function abominationGen() {
 	var abomination = Math.floor(Math.random() * (abominations.length));
 	document.getElementById('abominationsDisplay').innerHTML = abominations[abomination] + ' ' + 'an abomination unto Nuggan!'
-}
+};
